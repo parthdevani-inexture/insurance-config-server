@@ -1,0 +1,20 @@
+From 83f06f0e0b2e67e3cc1cadbf20fd44f2b40a2769 Mon Sep 17 00:00:00 2001
+From: parthdevani-inexture
+ <102646789+parthdevani-inexture@users.noreply.github.com>
+Date: Wed, 13 Apr 2022 17:02:26 +0530
+Subject: [PATCH 1/4] Update application.properties
+
+---
+ application.properties | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/application.properties b/application.properties
+index 27338c3..5ca24a0 100644
+--- a/application.properties
++++ b/application.properties
+@@ -1 +1 @@
+-insurnace.provider.url=http://localhost:8080/insurnace-service/getUpdatePlans
++insurnace.provider.url=http://localhost:8080/insurnace-service/getUpdatePlan
+-- 
+2.25.1
+
